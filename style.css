@@ -1,0 +1,99 @@
+.row{margin-bottom: 5px;}
+
+#red{ background-color: #f44336; }
+#red-1{ background-color:#ffcdd2; }
+#red-2{ background-color:#e57373; }
+#red-3{ background-color:#f44336; }
+#red-4{ background-color:#d32f2f; }
+#red-5{ background-color:#c62828; }
+#red-6{ background-color:#b71c1c; }
+
+#pink{ background-color: #E91E63; }
+#pink-1{ background-color:#F8BBD0; }
+#pink-2{ background-color:#F06292; }
+#pink-3{ background-color:#EC407A; }
+#pink-4{ background-color:#E91E63; }
+#pink-5{ background-color:#C2185B; }
+#pink-6{ background-color:#AD1457; }
+
+#purple{ background-color: #9C27B0; }
+#purple-1{ background-color:#E1BEE7; }
+#purple-2{ background-color:#CE93D8; }
+#purple-3{ background-color:#AB47BC; }
+#purple-4{ background-color:#8E24AA; }
+#purple-5{ background-color:#7B1FA2; }
+#purple-6{ background-color:#4A148C; }
+
+#deepPurple{ background-color: #673AB7; }
+#deepPurple-1{ background-color:#D1C4E9; }
+#deepPurple-2{ background-color:#B39DDB; }
+#deepPurple-3{ background-color:#7E57C2; }
+#deepPurple-4{ background-color:#5E35B1; }
+#deepPurple-5{ background-color:#4527A0; }
+#deepPurple-6{ background-color:#311B92; }
+
+#blue{ background-color: #2196F3; }
+#blue-1{ background-color:#BBDEFB; }
+#blue-2{ background-color:#90CAF9; }
+#blue-3{ background-color:#64B5F6; }
+#blue-4{ background-color:#2196F3; }
+#blue-5{ background-color:#1976D2; }
+#blue-6{ background-color:#1565C0; }
+
+#cayn{ background-color: #00BCD4; }
+#cayn-1{ background-color:#B2EBF2; }
+#cayn-2{ background-color:#4DD0E1; }
+#cayn-3{ background-color:#00BCD4; }
+#cayn-4{ background-color:#00ACC1; }
+#cayn-5{ background-color:#0097A7; }
+#cayn-6{ background-color:#00838F; }
+
+#teal{ background-color: #009688; }
+#teal-1{ background-color:#B2DFDB; }
+#teal-2{ background-color:#80CBC4; }
+#teal-3{ background-color:#26A69A; }
+#teal-4{ background-color:#009688; }
+#teal-5{ background-color:#00897B; }
+#teal-6{ background-color:#00796B; }
+
+#green{ background-color: #4CAF50; }
+#green-1{ background-color:#C8E6C9; }
+#green-2{ background-color:#A5D6A7; }
+#green-3{ background-color:#81C784; }
+#green-4{ background-color:#4CAF50; }
+#green-5{ background-color:#43A047; }
+#green-6{ background-color:#388E3C; }
+
+#lime{ background-color: #CDDC39; }
+#lime-1{ background-color:#F0F4C3; }
+#lime-2{ background-color:#DCE775; }
+#lime-3{ background-color:#D4E157; }
+#lime-4{ background-color:#CDDC39; }
+#lime-5{ background-color:#C0CA33; }
+#lime-6{ background-color:#9E9D24; }
+
+#yellow{ background-color: #FFEB3B; }
+#yellow-1{ background-color:#FFF9C4; }
+#yellow-2{ background-color:#FFF59D; }
+#yellow-3{ background-color:#FFF176; }
+#yellow-4{ background-color:#FFEB3B; }
+#yellow-5{ background-color:#FDD835; }
+#yellow-6{ background-color:#F9A825; }
+
+#orange{ background-color: #FF9800; }
+#orange-1{ background-color:#FFE0B2; }
+#orange-2{ background-color:#FFCC80; }
+#orange-3{ background-color:#FFB74D; }
+#orange-4{ background-color:#FFA726; }
+#orange-5{ background-color:#FF9800; }
+#orange-6{ background-color:#FB8C00; }
+
+#blueGrey{ background-color: #607D8B; }
+#blueGrey-1{ background-color:#ECEFF1; }
+#blueGrey-2{ background-color:#CFD8DC; }
+#blueGrey-3{ background-color:#90A4AE; }
+#blueGrey-4{ background-color:#607D8B; }
+#blueGrey-5{ background-color:#546E7A; }
+#blueGrey-6{ background-color:#455A64; }
+
+
